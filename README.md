@@ -120,13 +120,13 @@ I'm an engineer with a deep love for coding, math, and physics. I'm passionate a
 ![Snake animation](https://github.com/IamRam3/IamRam3/blob/output/github-contribution-grid-snake.svg)
 
 
-
+<!--
 ## 📊 GitHub Activity Graph
 
 <a href="https://github.com/IamRam3">
   <img alt="Ram's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=IamRam3&bg_color=1a1b27&color=9f9f9f&line=ff6b81&point=ffffff&area=true&hide_border=true"/>
 </a>
-
+-->
 
 
 
