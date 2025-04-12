@@ -39,7 +39,7 @@ No pressure though—if you think I’m cool enough, don’t be shy... hit me up
 
 ## <span style="font-size: 30px;">About ME 💬</span>
 
-<img align="right" src="https://i.gifer.com/4CND.gif" width="150" height="200">
+<img align="right" src="https://i.gifer.com/4CND.gif" width="150" height="300">
 
 <span style="font-size: 18px;">
 I'm an engineer with a deep love for coding, math, and physics. I'm passionate about crafting intelligent systems that solve real-world problems. From autonomous robotics to scalable web apps & exploring reinforcement learning, or pushing performance limits in computer vision and HPC—I thrive on solving complex problems that matter. I thrive at the intersection of software and hardware, where the boundaries between the two start to blur. I'm a strong believer in open source, continuous learning, and using tech to create real-world impact. Let's collaborate, innovate, and bring ideas to life! 🤖⚡
