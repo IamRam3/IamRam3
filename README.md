@@ -50,6 +50,8 @@ I'm an engineer with a deep love for coding, math, and physics. I'm passionate a
 - 💬 **Let's talk about:** AI, Autonomous Systems, System Design, AI Agents, Open Source Contributions, point clouds or any cutting-edge tech
 - ♟️ **Hobbies:** Chess, Cricket, Long Runs, and diving into anything new and exciting in tech or life
 
+__View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/resume/ram_cv.pdf).
+
 <h2> <img src="https://media0.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" width="32">  Languages and Tools: </h2>
 
 <p align="center"> 
