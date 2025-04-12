@@ -30,7 +30,7 @@ No pressure though—if you think I’m cool enough, don’t be shy... hit me up
   <a href="mailto:sairam68386@gmail.com"><img src="https://img.shields.io/badge/Email-sairam68386%40gmail.com-blue?style=flat-square&logo=gmail" style="font-size: 20px;"></a>
   <a href="https://www.linkedin.com/in/ram-dhavileswarapu-4ab502250/"><img src="https://img.shields.io/badge/LinkedIn-Ram%20Dhavileswarapu-blue?style=flat-square&logo=linkedin" style="font-size: 20px;"></a>
   <a href="https://ramdhavileswarapu.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore more About Me-blue?style=flat-square&logo=internet-explorer&logoColor=white" style="font-size: 20px;">
+  <img src="https://img.shields.io/badge/Portfolio-Explore More?style=flat-square&logo=internet-explorer&logoColor=white" style="font-size: 20px;">
 </a>
 </p>
 
