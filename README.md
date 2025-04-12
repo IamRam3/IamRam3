@@ -101,7 +101,9 @@ I'm an engineer with a deep love for coding, math, and physics. I'm passionate a
 <!--START_SECTION:waka-->
 
 ```txt
+From: 04 April 2025 - To: 11 April 2025
 
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
