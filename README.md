@@ -69,29 +69,29 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ros" height="40" alt="pytorch logo"  />
+  <img src="https://skillicons.dev/icons?i=ros" height="40" alt="ros logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="pytorch logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="pytorch logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="pytorch logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="pytorch logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo"  />
   <img width="12" />
   
   <!-- Custom icons -->
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-without-subtitle.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-without-subtitle.svg" height="40" alt="scikit-learn logo"/>
   <img width="12" />
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="40" />
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="40" alt="huggingface logo"/>
   <img width="12" />
-  <img src="numpy" height="40" />
+  <img src="https://github.com/IamRam3/IamRam3/blob/main/logos/numpy.webp" height="40" alt="numpy logo"/>
   <img width="12" />
-  <img src="langchain" height="40" />
+  <img src="https://github.com/IamRam3/IamRam3/blob/main/logos/pandas.webp" height="40" alt="pandas logo"/>
   <img width="12" />
-  <img src="cuda.svg" height="40" />
+  <img src="https://github.com/IamRam3/IamRam3/blob/main/logos/Nvidia.webp" height="40" alt="Cuda logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="pytorch logo"  />
+  <img src="https://github.com/IamRam3/IamRam3/blob/main/logos/langchain.webp" height="40" alt="langchain logo"  />
   <img width="12" />
   
 </div>
