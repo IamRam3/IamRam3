@@ -69,6 +69,31 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ros" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  
+  <!-- Custom icons -->
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-without-subtitle.svg" height="40" />
+  <img width="12" />
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="40" />
+  <img width="12" />
+  <img src="numpy" height="40" />
+  <img width="12" />
+  <img src="langchain" height="40" />
+  <img width="12" />
+  <img src="cuda.svg" height="40" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  
 </div>
 
 
