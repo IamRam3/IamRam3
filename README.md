@@ -131,11 +131,6 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
 
 <!--START_SECTION:waka-->
 
-```txt
-From: 07 April 2025 - To: 14 April 2025
-
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
 </details>
