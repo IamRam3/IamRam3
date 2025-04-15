@@ -44,7 +44,7 @@ No pressure though—if you think I’m cool enough, don’t be shy... hit me up
 <img align="right" src="https://i.gifer.com/4CND.gif" width="150" height="300">
 
 <!--<span style="font-size: 18px;">-->
-I'm an `engineer` with a deep love for coding, math, and physics. I'm passionate about `crafting intelligent systems` that solve real-world problems. From autonomous robotics to scalable web apps & exploring reinforcement learning, or pushing performance limits in computer vision and HPC—I thrive on `solving complex problems that matter`. I thrive at the intersection of software and hardware, where the boundaries between the two start to blur. I'm a strong believer in `open source`, `continuous learning`, and using tech to create real-world impact. Let's collaborate, innovate, and bring ideas to life! 🤖⚡
+I'm an **`engineer`** with a deep love for coding, math, and physics. I'm passionate about `crafting intelligent systems` that solve real-world problems. From autonomous robotics to scalable web apps & exploring reinforcement learning, or pushing performance limits in computer vision and HPC—I thrive on `solving complex problems that matter`. I thrive at the intersection of software and hardware, where the boundaries between the two start to blur. I'm a strong believer in `open source`, `continuous learning`, and using tech to create real-world impact. Let's collaborate, innovate, and bring ideas to life! 🤖⚡
 <!--</span>-->
 
 
@@ -214,7 +214,55 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
 
+```python
+class Engineer(Ram):
+   """self-taught developer that love to learn more about Technologies"""
+   
+   def __init__(self):
+     
+      self.name = "Ram"
+      self.age = 24
+      self.role = "Fresher"
 
+      self.TOOLS = {
+          "ScriptingLanguages" : ("Python"),
+          "ProgrammingLanguages" : ("C++"),
+          "Editors" : ("VsCode"),
+          "Platform" : ("LINUX",),
+          "OtherTools" : ()
+         }
+
+      self.INTERESTS = [
+         "Computer Sciences",
+         "Electrical & Electronic Engineering",
+         ]
+
+   def use(self, tool):
+      """use one of my tools or use bunch of them."""
+      return self.tools[tool]
+
+
+   def work(self):
+      """"""
+      while not WORK_DONE:
+         # keep work.
+         self.use(tool)
+
+      return WORK_DONE
+
+
+   def __len__(self):
+      """Fun Fact"""
+      return 181 # cm
+
+
+   def __repr__(self):
+      """"""
+      return f"{self.name} an {self.age} y.o self-taught developer and {self.role}"
+
+```
+<!-- to print thick horizontal line -->
+---
 
 
 
