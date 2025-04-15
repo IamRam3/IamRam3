@@ -183,7 +183,15 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
+<p align="center">
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
+  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
+</p>
 
+<p align="center">
+  <img width="75%" src="https://github.com/IamRam3/IamRam3/blob/master/metrics.svg"/>
+  <img src="https://github.com/IamRam3/IamRam3/blob/master/metrics.detailed.svg" width="75%"/>
+</p>
 
 
 
