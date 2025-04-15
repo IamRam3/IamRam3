@@ -48,7 +48,7 @@ I'm an `engineer` with a deep love for coding, math, and physics. I'm passionate
 <!--</span>-->
 
 
-- 🌱 **Exploring:** Reinforcement Learning, Robotics, Computer Vision (beyond just 2D), High Performance Computing, and AI
+- 🌱 **Exploring:** <img src="https://img.shields.io/badge/-Reinforcement Learning-black">, Robotics, Computer Vision (beyond just 2D), High Performance Computing, and AI
 - 💼 **Open for:** AI/Robotics Engineering, Research-Driven Development, and Open Source Collaborations
 - 💬 **Let's talk about:** AI, Autonomous Systems, System Design, AI Agents, Open Source Contributions, point clouds or any cutting-edge tech
 - ♟️ **Hobbies:** Chess, Cricket, Long Runs, and diving into anything new and exciting in tech or life
@@ -59,16 +59,22 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
 
 <p align="center"> 
 <div align="left">
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <kbd> <kbd> DataBases </kbd> <br><br>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+    </kbd>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <kbd> <kbd> DataBases </kbd> <br><br>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
+  </kbd>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
   <img width="12" />
@@ -77,8 +83,6 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo"  />
   <img width="12" />
@@ -188,10 +192,30 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
   <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
 
-<p align="center">
-  <img width="75%" src="https://github.com/IamRam3/IamRam3/blob/master/metrics.svg"/>
-  <img src="https://github.com/IamRam3/IamRam3/blob/master/metrics.detailed.svg" width="75%"/>
-</p>
+<code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
+
+<hr>
+
+<pre>
+
+ I look forward to collaborate on impactful projects
+</pre>
+<hr>
+
+<a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
+  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/j.sanskarr/">
+  <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
+</a>
+<a href="https://twitter.com/TitanWithKagune">
+  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
+</a>
+
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
+
+
+
 
 
 
