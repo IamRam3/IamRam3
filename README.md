@@ -174,6 +174,12 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
 
 [<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/IamRam3?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/IamRam3?tab=repositories&q=&type=&language=&sort=stargazers)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IamRam3&theme=react-dark&hide_border=true&area=true)
+
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
 
 
 
