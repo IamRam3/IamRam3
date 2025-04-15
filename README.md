@@ -268,6 +268,7 @@ class Engineer(Ram):
 ⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 28.67 % I still have time to learn more Techs this year
 <!--YEAR_PROGRESS_END-->
 
+<img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=IamRam3&padding=30&skills=python,cpp' />
 
 
 
