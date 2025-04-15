@@ -179,7 +179,7 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
 
 ![3D Profile Snake](https://github.com/IamRam3/IamRam3/blob/output/profile-3d-contrib/profile-night-rainbow.svg)
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
 
