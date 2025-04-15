@@ -270,7 +270,9 @@ class Engineer(Ram):
 
 <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=IamRam3&padding=30&skills=python,cpp' />
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Let's Connect!
+
+> I'm always happy to collaborate on cool projects. Feel free to connect or contribute!
 
 ## <b>💪Quote || Fact</b>
 <br>
@@ -334,6 +336,7 @@ class Engineer(Ram):
 - [ ] Married
 - [ ] Have children
 - [ ] Die
+
 
 
 
