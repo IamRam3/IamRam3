@@ -2,6 +2,19 @@
 ## Hi there 👋
 -->
 
+![Status](https://img.shields.io/badge/Status-🚧%20Still%20in%20Development-orange)
+
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250" alt="Work in progress"/>
+
+## 🚧 Project Status: Still in Development
+
+This project is actively being worked on. Features and documentation may change frequently.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%92%AA%20Still%20in%20Development-FCC201?style=for-the-badge&logo=github&logoColor=white" alt="Still in Development"/>
+</p>
+
+
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! there</a>  </h2>
 
 <!--
