@@ -12,9 +12,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate 3D Contribution Graph using Docker
-        run: |
-          docker run -v ${{ github.workspace }}:/app ghcr.io/yoshi389111/github-profile-3d-contrib
+      - name: Clone 3D contribution graph generator
+        run: git clone https://github.com/yoshi389111/github-profile-3d-contrib.git 3dgen
+
+      - name: Build Docker image
+        run: docker build -t contrib-3d ./3dgen
+
+      - name: Generate 3D Contribution Graph
+        run: docker run -v ${{ github.workspace }}:/app contrib-3d
 
       - name: Commit and push the 3D Graph to main
         run: |
