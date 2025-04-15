@@ -9,6 +9,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Generate the regular snake graph
       - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
@@ -16,10 +17,19 @@ jobs:
           outputs: |
             ./github-contribution-grid-snake.svg
 
-      - name: Push snake.svg to the output branch
+      # Step 2: Generate the 3D profile graph
+      - name: Generate 3D Profile Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: IamRam3
+          outputs: |
+            ./profile-3d-contrib/profile-night-rainbow.svg
+
+      # Step 3: Push both the snake.svg and profile-3d SVG to the output branch
+      - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: .
+          build_dir: .  # Include all files, adjust path if necessary
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
