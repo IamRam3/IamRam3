@@ -104,6 +104,7 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2> 
   <!--<img src="https://media2.giphy.com/media/IcnxGGAj0ubyB2r5M6/200.webp?cid=ecf05e47900iqfayjkbkp24q0ry9tcyitrxtdp8q1nk8curl&rid=200.webp&ct=s" width="30">-->
+  <!--<img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25">-->
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats:</h2>
 
 
