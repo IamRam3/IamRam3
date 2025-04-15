@@ -28,26 +28,16 @@ jobs:
       # Step 3: Initialize Git repository and commit the 3D Profile SVG
       - name: Commit and push 3D Profile SVG to the output branch
         run: |
-          # Initialize a git repository if not already initialized
           git init
-          
-          # Set the user name and email for the commit
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          
-          # Add the 'profile-3d-contrib' directory if it doesn't exist
+      
           mkdir -p profile-3d-contrib
-          
-          # Stage the generated 3D profile SVG file
           git add profile-3d-contrib/profile-night-rainbow.svg
-
-          # Commit the changes
           git commit -m "Add 3D profile contribution graph"
-
-          # Set the remote for the output branch (this step ensures you can push)
-          git remote add origin https://github.com/${{ github.repository }}.git
-          
-          # Push the changes to the output branch
-          git push origin HEAD:output
+      
+          git branch -M output
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git push --force origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
