@@ -264,7 +264,9 @@ class Engineer(Ram):
 <!-- to print thick horizontal line -->
 ---
 
-
+<!--YEAR_PROGRESS_START-->
+⏳ Year progress will appear here
+<!--YEAR_PROGRESS_END-->
 
 
 
