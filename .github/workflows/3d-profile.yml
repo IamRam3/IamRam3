@@ -12,8 +12,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Clone 3D contribution graph generator
-        run: git clone https://github.com/yoshi389111/github-profile-3d-contrib.git 3dgen
+      - name: Clone 3D contribution generator fork
+        run: git clone https://github.com/Ashutosh00710/github-profile-3d-contrib.git 3dgen
 
       - name: Build Docker image
         run: docker build -t contrib-3d ./3dgen
@@ -25,7 +25,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-
+          
           git add profile-3d-contrib/profile-night-rainbow.svg
           git commit -m "Update 3D contribution graph" || echo "No changes to commit"
           git push origin main
