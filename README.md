@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 
 Hey, you! Yeah, you—caught you lurking on my page! 👀
 I see the numbers climbing! 🧑‍💻 <img src="https://profile-counter.glitch.me/IamRam3/count.svg" /></br>
-No pressure though—if you think I’m cool enough, don’t be shy... hit me up! 😎🔥
+No pressure though—if you think I’m cool enough, don’t be shy... hit me up! 🔥 [![Github](https://img.shields.io/github/followers/IamRam3?label=Follow&style=social)](https://github.com/IamRam3)
 
-# <div align="center" style="font-size: 36px;">Hey 👋 I'm Ram Dhavileswarapu</div>
+<!--# <div align="center" style="font-size: 36px;">Hey 👋 I'm Ram Dhavileswarapu</div>-->
+
+<h1 align="center"><b>Hey </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b> I'm Ram Dhavileswarapu </b></h1>
 
 <p align="center">
   <a href="mailto:sairam68386@gmail.com"><img src="https://img.shields.io/badge/Email-sairam68386%40gmail.com-blue?style=flat-square&logo=gmail" style="font-size: 20px;"></a>
@@ -37,13 +39,14 @@ No pressure though—if you think I’m cool enough, don’t be shy... hit me up
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3RmMnp6amphdjE0OXQ2dHFrOXVnajVtZTFyNThzNW9jOGlvdjdzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BK5q771QamPcs/giphy.gif" alt="Welcome GIF" width="600">
 </div>
 
-## <span style="font-size: 30px;">About ME 💬</span>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <span style="font-size: 30px;">About ME </span> 
 
 <img align="right" src="https://i.gifer.com/4CND.gif" width="150" height="300">
 
-<span style="font-size: 18px;">
-I'm an engineer with a deep love for coding, math, and physics. I'm passionate about crafting intelligent systems that solve real-world problems. From autonomous robotics to scalable web apps & exploring reinforcement learning, or pushing performance limits in computer vision and HPC—I thrive on solving complex problems that matter. I thrive at the intersection of software and hardware, where the boundaries between the two start to blur. I'm a strong believer in open source, continuous learning, and using tech to create real-world impact. Let's collaborate, innovate, and bring ideas to life! 🤖⚡
-</span>
+<!--<span style="font-size: 18px;">-->
+I'm an `engineer` with a deep love for coding, math, and physics. I'm passionate about `crafting intelligent systems` that solve real-world problems. From autonomous robotics to scalable web apps & exploring reinforcement learning, or pushing performance limits in computer vision and HPC—I thrive on `solving complex problems that matter`. I thrive at the intersection of software and hardware, where the boundaries between the two start to blur. I'm a strong believer in `open source`, `continuous learning`, and using tech to create real-world impact. Let's collaborate, innovate, and bring ideas to life! 🤖⚡
+<!--</span>-->
+
 
 - 🌱 **Exploring:** Reinforcement Learning, Robotics, Computer Vision (beyond just 2D), High Performance Computing, and AI
 - 💼 **Open for:** AI/Robotics Engineering, Research-Driven Development, and Open Source Collaborations
@@ -52,7 +55,7 @@ I'm an engineer with a deep love for coding, math, and physics. I'm passionate a
 
 __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/resume/ram_cv.pdf).
 
-<h2> <img src="https://media0.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" width="32">  Languages and Tools: </h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills & Tools <img src="https://media0.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" width="32">: </h2>
 
 <p align="center"> 
 <div align="left">
@@ -98,8 +101,10 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
 
 
 <br>
-
-<h2> <img src="https://media2.giphy.com/media/IcnxGGAj0ubyB2r5M6/200.webp?cid=ecf05e47900iqfayjkbkp24q0ry9tcyitrxtdp8q1nk8curl&rid=200.webp&ct=s" width="30"> GitHub Stats:</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2> 
+  <!--<img src="https://media2.giphy.com/media/IcnxGGAj0ubyB2r5M6/200.webp?cid=ecf05e47900iqfayjkbkp24q0ry9tcyitrxtdp8q1nk8curl&rid=200.webp&ct=s" width="30">-->
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats:</h2>
 
 
 <table> 
@@ -121,9 +126,8 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
 
 
 
-
-
-<h2> <img src="https://media1.giphy.com/media/S8BY5l1YAfN7VIOhOk/giphy.gif?cid=ecf05e47ekos670jlv5x7qkmrpop0mmnf90tin4ktdr7qoih&rid=giphy.gif&ct=s" width="30">   Development Breakdown: </h2>
+<details><summary>
+<h2> <img src="https://media1.giphy.com/media/S8BY5l1YAfN7VIOhOk/giphy.gif?cid=ecf05e47ekos670jlv5x7qkmrpop0mmnf90tin4ktdr7qoih&rid=giphy.gif&ct=s" width="30">   Development Breakdown: </h2></summary>
 
 <!--START_SECTION:waka-->
 
@@ -134,7 +138,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
+</details>
  
 <table> 
   <tr>
@@ -157,6 +161,22 @@ No activity tracked
 </a>
 -->
 
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/IamRam3/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=IamRam3&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+<br>
+<br>
+
+ ----------
+ 
+[<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/IamRam3?label=IamRam3%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
+
+[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/IamRam3?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/IamRam3?tab=repositories&q=&type=&language=&sort=stargazers)
 
 
 
@@ -164,6 +184,7 @@ No activity tracked
 
 
 
+-----------
 
 
 ![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=IamRam3&width=1200&height=400)
