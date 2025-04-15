@@ -1,0 +1,34 @@
+name: Year Progress Badge
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily
+  workflow_dispatch:
+
+jobs:
+  update-progress:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - name: Run script
+        run: |
+          python3 year_progress.py > year_progress.txt
+
+      - name: Update README
+        run: |
+          sed -i '/<!--YEAR_PROGRESS_START-->/, /<!--YEAR_PROGRESS_END-->/c\<!--YEAR_PROGRESS_START-->\n'"$(cat year_progress.txt)"'\n<!--YEAR_PROGRESS_END-->' README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update year progress"
+          git push
