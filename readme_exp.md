@@ -2,19 +2,6 @@
 ## Hi there 👋
 -->
 
-![Status](https://img.shields.io/badge/Status-🚧%20Still%20in%20Development-orange)
-
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250" alt="Work in progress"/>
-
-## 🚧 Project Status: Still in Development
-
-This project is actively being worked on. Features and documentation may change frequently.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%92%AA%20Still%20in%20Development-FCC201?style=for-the-badge&logo=github&logoColor=white" alt="Still in Development"/>
-</p>
-
-
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! there</a>  </h2>
 
 <!--
@@ -36,7 +23,7 @@ Hey, you! Yeah, you—caught you lurking on my page! 👀
 I see the numbers climbing! 🧑‍💻 <img src="https://profile-counter.glitch.me/IamRam3/count.svg" /></br>
 No pressure though—if you think I’m cool enough, don’t be shy... hit me up! 🔥 [![Github](https://img.shields.io/github/followers/IamRam3?label=Follow&style=social)](https://github.com/IamRam3)
 
-<!--# <div align="center" style="font-size: 36px;">Hey 👋 I'm Ram Dhavileswarapu</div>-->
+<!--# <div align="center" style="font-size: 36px;"><h1> Hey 👋 <a  href="https://github.com/IamRam3/">Ram Dhavileswarapau </a> </h1> </div>-->
 
 <h1 align="center"><b>Hey </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b> I'm Ram Dhavileswarapu </b></h1>
 
@@ -57,14 +44,15 @@ No pressure though—if you think I’m cool enough, don’t be shy... hit me up
 <img align="right" src="https://i.gifer.com/4CND.gif" width="150" height="300">
 
 <!--<span style="font-size: 18px;">-->
-I'm an **`engineer`** with a deep love for coding, math, and physics. I'm passionate about `crafting intelligent systems` that solve real-world problems. From autonomous robotics to scalable web apps & exploring reinforcement learning, or pushing performance limits in computer vision and HPC—I thrive on `solving complex problems that matter`. I thrive at the intersection of software and hardware, where the boundaries between the two start to blur. I'm a strong believer in `open source`, `continuous learning`, and using tech to create real-world impact. Let's collaborate, innovate, and bring ideas to life! 🤖⚡
+I'm an **`engineer`** with a deep love for coding, math, and physics. I'm passionate about **`crafting intelligent systems`** that solve real-world problems. From autonomous robotics to scalable web apps & exploring reinforcement learning, or pushing performance limits in computer vision and HPC—I thrive on **`solving complex problems that matter`**. I thrive at the intersection of software and hardware, where the boundaries between the two start to blur. I'm a strong believer in **`open source`**, **`continuous learning`**, and using tech to create real-world impact. Let's collaborate, innovate, and bring ideas to life! 🤖⚡
 <!--</span>-->
 
 
-- 🌱 **Exploring:** <img src="https://img.shields.io/badge/-Reinforcement Learning-black">, Robotics, Computer Vision (beyond just 2D), High Performance Computing, and AI
-- 💼 **Open for:** AI/Robotics Engineering, Research-Driven Development, and Open Source Collaborations
-- 💬 **Let's talk about:** AI, Autonomous Systems, System Design, AI Agents, Open Source Contributions, point clouds or any cutting-edge tech
+- 🌱 **Exploring:** <img src="https://img.shields.io/badge/-Reinforcement Learning-green">, <img src="https://img.shields.io/badge/-Robotics-darkred">, <img src="https://img.shields.io/badge/-Computer Visoin (beyond just 2D)-blue">, <img src="https://img.shields.io/badge/-High Performance Computing-yellow">, and <img src="https://img.shields.io/badge/-AI-purple">
+- 💼 **Open for:** <img src="https://img.shields.io/badge/-AI-purple"> / <img src="https://img.shields.io/badge/-Robotics Engineering-darkred">, Research-Driven Development, and <img src="https://img.shields.io/badge/-Open Source Collaboration-darkpink">
+- 💬 **Let's talk about:** <img src="https://img.shields.io/badge/-AI-purple">, <img src="https://img.shields.io/badge/-Autonomous Systems-black">, <img src="https://img.shields.io/badge/-System Design-orange">, <img src="https://img.shields.io/badge/-AI Agents-darkblue">, <img src="https://img.shields.io/badge/-Open Source Contribution-darkpink">, <img src="https://img.shields.io/badge/-Point cloud-pink"> or any cutting-edge tech
 - ♟️ **Hobbies:** Chess, Cricket, Long Runs, and diving into anything new and exciting in tech or life
+
 
 __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/resume/ram_cv.pdf).
 
@@ -78,29 +66,17 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
     </kbd>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <kbd> <kbd> DataBases </kbd> <br><br>
+  <kbd> <kbd> Languages </kbd> <br><br>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
+  <img src="https://github.com/IamRam3/IamRam3/blob/main/logos/Nvidia.webp" height="40" alt="Cuda logo"/>
+  <img width="12" />
   </kbd>
+  <kbd> <kbd> Frameworks </kbd> <br><br>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ros" height="40" alt="ros logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo"  />
-  <img width="12" />
-  
-  <!-- Custom icons -->
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-without-subtitle.svg" height="40" alt="scikit-learn logo"/>
   <img width="12" />
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="40" alt="huggingface logo"/>
@@ -108,12 +84,30 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
   <img src="https://github.com/IamRam3/IamRam3/blob/main/logos/numpy.webp" height="40" alt="numpy logo"/>
   <img width="12" />
   <img src="https://github.com/IamRam3/IamRam3/blob/main/logos/pandas.webp" height="40" alt="pandas logo"/>
-  <img width="12" />
-  <img src="https://github.com/IamRam3/IamRam3/blob/main/logos/Nvidia.webp" height="40" alt="Cuda logo"/>
-  <img width="12" />
   <img src="https://github.com/IamRam3/IamRam3/blob/main/logos/langchain.webp" height="40" alt="langchain logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ros" height="40" alt="ros logo"  />
+  </kbd>
+
   
+  <!-- Custom icons -->
+
+  <kbd> <kbd> Tools </kbd> <br><br>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  </kbd>
+
+
+
 </div>
 
 
