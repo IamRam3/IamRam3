@@ -78,7 +78,7 @@ I'm an **`engineer`** with a deep love for coding, math, and physics. I'm passio
 
 
 - 🌱 **Exploring:** <img src="https://img.shields.io/badge/-Reinforcement Learning-green">, <img src="https://img.shields.io/badge/-Robotics-darkred">, <img src="https://img.shields.io/badge/-Computer Visoin (beyond just 2D)-blue">, <img src="https://img.shields.io/badge/-AI-purple"> and <img src="https://img.shields.io/badge/-High Performance Computing-yellow">. 
-- 💼 **Open for:** <img src="https://img.shields.io/badge/-AI-purple"> / <img src="https://img.shields.io/badge/-Robotics Engineering-darkred">, Research-Driven Development, and <img src="https://img.shields.io/badge/-Open Source Collaboration-darkpink">
+- 💼 **Open for:** <img src="https://img.shields.io/badge/-Open Source Collaboration-darkpink">, Research-Driven Development & <img src="https://img.shields.io/badge/-AI-purple"> or <img src="https://img.shields.io/badge/-Robotics Engineering-darkred">.
 - 💬 **Let's talk about:** <img src="https://img.shields.io/badge/-AI-purple">, <img src="https://img.shields.io/badge/-Autonomous Systems-black">, <img src="https://img.shields.io/badge/-System Design-orange">, <img src="https://img.shields.io/badge/-AI Agents-darkblue">, <img src="https://img.shields.io/badge/-Point cloud-pink"> and <img src="https://img.shields.io/badge/-Open Source Contribution-darkpink"> or any cutting-edge tech
 - ♟️ **Hobbies:** Chess, Cricket, Long Runs, and diving into anything new and exciting in tech or life
 
