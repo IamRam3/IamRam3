@@ -171,15 +171,24 @@ __View my resume__
 </table>
 
 
+<details>
+  <summary>
+    <img src="https://media1.giphy.com/media/S8BY5l1YAfN7VIOhOk/giphy.gif?cid=ecf05e47ekos670jlv5x7qkmrpop0mmnf90tin4ktdr7qoih&rid=giphy.gif&ct=s" width="25">
+    <strong>&nbsp;&nbsp;&nbsp;&nbsp;Development Breakdown</strong>
+  </summary>
 
-<details><summary>
-<h2> <img src="https://media1.giphy.com/media/S8BY5l1YAfN7VIOhOk/giphy.gif?cid=ecf05e47ekos670jlv5x7qkmrpop0mmnf90tin4ktdr7qoih&rid=giphy.gif&ct=s" width="30">   Development Breakdown: </h2></summary>
+  <br>
 
-<!--START_SECTION:waka-->
+  <p align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=IamRam3&layout=compact&theme=radical"
+      alt="WakaTime Stats"
+    />
+  </p>
 
-
-<!--END_SECTION:waka-->
 </details>
+
+
  
 <table> 
   <tr>
