@@ -317,7 +317,7 @@ class Engineer(Ram):
 - [ ] Do Open Source Contribution's
 - [ ] Become Kaggle Expert
 - [ ] Try BugBountyHunting, Freelancing
-- [ ] Do Master's (after working 2yr's)
+- [ ] Do Master's (after working atleast 2yr's)
 - [ ] Start a start-up
 
 
