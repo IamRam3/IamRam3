@@ -2,10 +2,6 @@
 ## Hi there 👋
 -->
 
-## 🚧 Project Status: Still in Development
-
-This project is actively being worked on. Features and documentation may change frequently.
-
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! there</a>  </h2>
 
 <!--
@@ -27,37 +23,69 @@ Hey, you! Yeah, you—caught you lurking on my page! 👀
 I see the numbers climbing! 🧑‍💻 <img src="https://profile-counter.glitch.me/IamRam3/count.svg" /></br>
 No pressure though—if you think I’m cool enough, don’t be shy... hit me up! 🔥 [![Github](https://img.shields.io/github/followers/IamRam3?label=Follow&style=social)](https://github.com/IamRam3)
 
-<!--# <div align="center" style="font-size: 36px;">Hey 👋 I'm Ram Dhavileswarapu</div>-->
+<!--# <div align="center" style="font-size: 36px;"><h1> Hey 👋 <a  href="https://github.com/IamRam3/">Ram Dhavileswarapau </a> </h1> </div>-->
 
-<h1 align="center"><b>Hey </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b> I'm Ram Dhavileswarapu </b></h1>
+<h1 align="center">
+  <b>Hey </b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <b> I'm <a href="https://github.com/yourusername" style="color: #0366d6;">Ram Dhavileswarapu</a></b>
+</h1>
 
-<p align="center">
+<a href="https://www.linkedin.com/in/ram-dhavileswarapu-4ab502250/" title="LinkedIn">
+  <img align="left" alt="Ram's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+</a>
+<a href="mailto:sairam68386@gmail.com" title="Send Email">
+  <img align="left" alt="Ram's Mail" width="24px" src="https://img.icons8.com/nolan/96/gmail.png" />
+</a>
+<a href="https://www.reddit.com/user/FewSwitch6185/" title="Reddit">
+  <img align="left" alt="Ram's Reddit" width="24px" src="https://img.icons8.com/nolan/96/reddit.png" />
+</a>
+<a href="https://ramdhavileswarapu.netlify.app/home" title="Portfolio"> 
+  <img align="left" alt="Ram's Portfolio" width="24px" src="https://img.icons8.com/nolan/96/search.png" />
+</a>
+
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Robotics+Engineer;Software+Developer&center=true&width=500&height=40"></a>
+
+<!--
   <a href="mailto:sairam68386@gmail.com"><img src="https://img.shields.io/badge/Email-sairam68386%40gmail.com-blue?style=flat-square&logo=gmail" style="font-size: 20px;"></a>
   <a href="https://www.linkedin.com/in/ram-dhavileswarapu-4ab502250/"><img src="https://img.shields.io/badge/LinkedIn-Ram%20Dhavileswarapu-blue?style=flat-square&logo=linkedin" style="font-size: 20px;"></a>
   <a href="https://ramdhavileswarapu.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Watch my Work-blue?style=flat-square&logo=internet-explorer&logoColor=white" style="font-size: 20px;">
 </a>
+-->
 </p>
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3RmMnp6amphdjE0OXQ2dHFrOXVnajVtZTFyNThzNW9jOGlvdjdzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BK5q771QamPcs/giphy.gif" alt="Welcome GIF" width="600">
 </div>
 
+<p align="center">
+  <a href="https://github.com/OldCodersClub/faq">
+  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/IamRam3?label=IamRam3%27s%20Stars&style=social">
+</a>
+
+<a href="https://github.com/IamRam3?tab=repositories&q=&type=&language=&sort=stargazers">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/IamRam3?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=all%20repo%27s%20Stars&style=social">
+</a>
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <span style="font-size: 30px;">About ME </span> 
 
 <img align="right" src="https://i.gifer.com/4CND.gif" width="150" height="300">
 
 <!--<span style="font-size: 18px;">-->
-I'm an **`engineer`** with a deep love for coding, math, and physics. I'm passionate about `crafting intelligent systems` that solve real-world problems. From autonomous robotics to scalable web apps & exploring reinforcement learning, or pushing performance limits in computer vision and HPC—I thrive on `solving complex problems that matter`. I thrive at the intersection of software and hardware, where the boundaries between the two start to blur. I'm a strong believer in `open source`, `continuous learning`, and using tech to create real-world impact. Let's collaborate, innovate, and bring ideas to life! 🤖⚡
+I'm an **`engineer`** with a deep love for coding, math, and physics. I'm passionate about **`crafting intelligent systems`** that solve real-world problems. From autonomous robotics to scalable web apps & exploring reinforcement learning, or pushing performance limits in computer vision and HPC—I thrive on **`solving complex problems that matter`** & at the **`intersection of software and hardware`**, where the boundaries between the two start to blur. I'm a strong believer in **`open source`**, **`continuous learning`**, and using tech to create real-world impact. Let's collaborate, innovate, and bring ideas to life! 🤖⚡
 <!--</span>-->
 
 
-- 🌱 **Exploring:** <img src="https://img.shields.io/badge/-Reinforcement Learning-black">, Robotics, Computer Vision (beyond just 2D), High Performance Computing, and AI
-- 💼 **Open for:** AI/Robotics Engineering, Research-Driven Development, and Open Source Collaborations
-- 💬 **Let's talk about:** AI, Autonomous Systems, System Design, AI Agents, Open Source Contributions, point clouds or any cutting-edge tech
+- 🌱 **Exploring:** <img src="https://img.shields.io/badge/-Reinforcement Learning-green">, <img src="https://img.shields.io/badge/-Robotics-darkred">, <img src="https://img.shields.io/badge/-Computer Visoin (beyond just 2D)-blue">, <img src="https://img.shields.io/badge/-High Performance Computing-yellow">, and <img src="https://img.shields.io/badge/-AI-purple">
+- 💼 **Open for:** <img src="https://img.shields.io/badge/-AI-purple"> / <img src="https://img.shields.io/badge/-Robotics Engineering-darkred">, Research-Driven Development, and <img src="https://img.shields.io/badge/-Open Source Collaboration-darkpink">
+- 💬 **Let's talk about:** <img src="https://img.shields.io/badge/-AI-purple">, <img src="https://img.shields.io/badge/-Autonomous Systems-black">, <img src="https://img.shields.io/badge/-System Design-orange">, <img src="https://img.shields.io/badge/-AI Agents-darkblue">, <img src="https://img.shields.io/badge/-Open Source Contribution-darkpink">, <img src="https://img.shields.io/badge/-Point cloud-pink"> or any cutting-edge tech
 - ♟️ **Hobbies:** Chess, Cricket, Long Runs, and diving into anything new and exciting in tech or life
 
-__View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/resume/ram_cv.pdf).
+
+__View my resume__ 
+<a href="https://github.com/IamRam3/side-projects/blob/main/resume/ram_cv.pdf">here.</a>
+
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills & Tools <img src="https://media0.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" width="32">: </h2>
 
@@ -69,29 +97,17 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
     </kbd>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <kbd> <kbd> DataBases </kbd> <br><br>
+  <kbd> <kbd> Languages </kbd> <br><br>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
+  <img src="https://github.com/IamRam3/IamRam3/blob/main/logos/Nvidia.webp" height="40" alt="Cuda logo"/>
+  <img width="12" />
   </kbd>
+  <kbd> <kbd> Frameworks </kbd> <br><br>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ros" height="40" alt="ros logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo"  />
-  <img width="12" />
-  
-  <!-- Custom icons -->
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-without-subtitle.svg" height="40" alt="scikit-learn logo"/>
   <img width="12" />
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="40" alt="huggingface logo"/>
@@ -99,12 +115,33 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
   <img src="https://github.com/IamRam3/IamRam3/blob/main/logos/numpy.webp" height="40" alt="numpy logo"/>
   <img width="12" />
   <img src="https://github.com/IamRam3/IamRam3/blob/main/logos/pandas.webp" height="40" alt="pandas logo"/>
-  <img width="12" />
-  <img src="https://github.com/IamRam3/IamRam3/blob/main/logos/Nvidia.webp" height="40" alt="Cuda logo"/>
-  <img width="12" />
   <img src="https://github.com/IamRam3/IamRam3/blob/main/logos/langchain.webp" height="40" alt="langchain logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ros" height="40" alt="ros logo"  />
+  </kbd>
+
   
+  <!-- Custom icons -->
+
+  <kbd> <kbd> Tools </kbd> <br><br>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  </kbd>
+
+<!--
+  <code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
+-->
+
+
 </div>
 
 
@@ -173,50 +210,27 @@ __View my resume__ [here](https://github.com/IamRam3/side-projects/blob/main/res
 </div>
 <!--- trophy (start) -->
 
-<br>
-<br>
-
  ----------
- 
-[<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/IamRam3?label=IamRam3%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
-
-[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/IamRam3?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/IamRam3?tab=repositories&q=&type=&language=&sort=stargazers)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IamRam3&theme=react-dark&hide_border=true&area=true)
-
-
-![3D Profile Snake](https://github.com/IamRam3/IamRam3/blob/output/profile-3d-contrib/profile-night-rainbow.svg)
 
 ### 🧊 3D Contribution Graph
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
+<!--
 <p align="center">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
   <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
+-->
 
-<code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Let's Connect!
+
+> I'm always happy to collaborate on cool projects. Feel free to connect or contribute!
+
 
 <hr>
 
-<pre>
-
- I look forward to collaborate on impactful projects
-</pre>
-<hr>
-
-<a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
-  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
-</a>
-<a href="https://www.instagram.com/j.sanskarr/">
-  <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
-</a>
-<a href="https://twitter.com/TitanWithKagune">
-  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
-</a>
-
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
 
 ```python
 class Engineer(Ram):
@@ -269,10 +283,38 @@ class Engineer(Ram):
 ---
 
 <!--YEAR_PROGRESS_START-->
-⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.32 % I still have time to learn more Techs this year
+⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 28.67 % I still have time to learn more Techs this year
 <!--YEAR_PROGRESS_END-->
 
-<img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=IamRam3&padding=30&skills=python,cpp' />
+
+## <b>💪Quote || Fact</b>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
+
+<br>
+
+<h2 align="left">Buy me a coffee</h2>
+<p><a href="https://www.buymeacoffee.com/iamram3"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aivardhan" /></a></p>
+<hr>
+
+<img align="left" alt="Checklist" width="24px" src="https://img.icons8.com/nolan/96/checkmark.png" />
+
+## tasks
+
+- [x] Complete Bachelor's
+- [x] Make Portfolio
+- [ ] Get a Job
+- [ ] Do Open Source Contribution's
+- [ ] Become Kaggle Expert
+- [ ] Try BugBountyHunting, Freelancing
+- [ ] Do Master's (after working 2yr's)
+- [ ] Start a start-up
+
+
+
+
+
 
 
 
