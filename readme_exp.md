@@ -40,7 +40,7 @@ No pressure though—if you think I’m cool enough, don’t be shy... hit me up
 <a href="https://www.reddit.com/user/FewSwitch6185/" title="Reddit">
   <img align="left" alt="Ram's Reddit" width="24px" src="https://img.icons8.com/nolan/96/reddit.png" />
 </a>
-<a href="https://ramdhavileswarapu.netlify.app/home" title="Portfolio Website"> 
+<a href="https://ramdhavileswarapu.netlify.app/home" title="Portfolio"> 
   <img align="left" alt="Ram's Portfolio" width="24px" src="https://img.icons8.com/nolan/96/search.png" />
 </a>
 
