@@ -155,15 +155,15 @@ __View my resume__
 
 <table> 
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=IamRam3&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamRam3&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=IamRam3&theme=ambient_gradient&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamRam3&theme=ambient_gradient&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
    </tr>
 </table>
 <table>
   <tr>
     <p align="center">
       <img src="https://user-images.githubusercontent.com/73031725/174701869-d138bdf9-9a11-476a-8c73-e9f51d6e670b.gif" width="140">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamRam3&theme=radical" alt="IamRam">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamRam3&theme=ambient_gradient" alt="IamRam">
 <!--       <img src="https://thumbs.gfycat.com/RapidIllegalKronosaurus-max-1mb.gif" width="140"> -->
      <img src="https://thumbs.gfycat.com/RapidSentimentalDeermouse-size_restricted.gif" width="160">
     </p>
