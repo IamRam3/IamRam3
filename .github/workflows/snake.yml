@@ -1,4 +1,4 @@
-name: Generate 3D Profile
+name: Generate Snake Contributions
 
 on:
   schedule:
@@ -9,33 +9,22 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Generate the regular snake graph (optional)
-      - name: Generate snake.svg (optional)
+      - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: IamRam3
           outputs: |
             ./github-contribution-grid-snake.svg
 
-      # Step 2: Generate the 3D Profile Graph
-      - name: Generate 3D Profile Contribution Graph
-        uses: Platane/snk@v3
-        with:
-          github_user_name: IamRam3
-          outputs: |
-            ./profile-3d-contrib/profile-night-rainbow.svg
-
-      # Step 3: Initialize Git repository and commit the 3D Profile SVG
-      - name: Commit and push 3D Profile SVG to the output branch
+      - name: Commit and push snake.svg to the output branch
         run: |
           git init
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-      
-          mkdir -p profile-3d-contrib
-          git add profile-3d-contrib/profile-night-rainbow.svg
-          git commit -m "Add 3D profile contribution graph"
-      
+
+          git add github-contribution-grid-snake.svg
+          git commit -m "Add snake contribution graph"
+
           git branch -M output
           git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git push --force origin output
