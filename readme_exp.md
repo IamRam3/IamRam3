@@ -238,6 +238,10 @@ __View my resume__
 
 <hr>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 
 ```python
 class Engineer(Ram):
