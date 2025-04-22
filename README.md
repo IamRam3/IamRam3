@@ -181,7 +181,7 @@ __View my resume__
 
   <p align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=IamRam3&layout=compact&theme=radical"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=IamRam3&layout=compact&theme=radical&v=1"
       alt="WakaTime Stats"
     />
   </p>
