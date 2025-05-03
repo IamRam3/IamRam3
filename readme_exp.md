@@ -394,6 +394,8 @@ class Engineer(Ram):
 
 -----------
 
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=IamRam3&width=1200&height=400)
