@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Waka Readme anmol
 
 on:
   workflow_dispatch:
