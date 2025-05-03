@@ -66,11 +66,11 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "metadata"
           plugin_gists: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_pwa: yes
+          #plugin_pagespeed: yes
+          #plugin_pagespeed_detailed: yes
+          #plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          #plugin_pagespeed_screenshot: yes
+          #plugin_pagespeed_pwa: yes
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           plugin_followup_indepth: yes
