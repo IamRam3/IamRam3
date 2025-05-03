@@ -1,7 +1,7 @@
 name: GitHub metrics
 on:
-  schedule:
-    - cron: "21 6,18 * * *"  # Runs at 6:21 AM and 6:21 PM UTC daily
+#  schedule:
+#    - cron: "21 6,18 * * *"  # Runs at 6:21 AM and 6:21 PM UTC daily
   workflow_dispatch:
 jobs:
 
