@@ -186,6 +186,8 @@ __View my resume__
     />
   </p>
 
+  
+
 </details>
 
 
@@ -332,3 +334,7 @@ class Engineer(Ram):
 
 
 ![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=IamRam3&width=1200&height=400)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
