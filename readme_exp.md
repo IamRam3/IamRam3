@@ -385,8 +385,7 @@ class Engineer(Ram):
 
 -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 
 
@@ -395,5 +394,6 @@ class Engineer(Ram):
 
 -----------
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=IamRam3&width=1200&height=400)
