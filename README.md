@@ -179,6 +179,8 @@ __View my resume__
   />
 </p>
 
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+
 <details>
   <summary>
     <img src="https://media1.giphy.com/media/S8BY5l1YAfN7VIOhOk/giphy.gif?cid=ecf05e47ekos670jlv5x7qkmrpop0mmnf90tin4ktdr7qoih&rid=giphy.gif&ct=s" width="25">
