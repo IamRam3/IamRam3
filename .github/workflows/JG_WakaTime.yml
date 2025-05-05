@@ -1,8 +1,8 @@
 name: Waka Readme JG
 
 on:
-  schedule:
-    - cron: '20 00 * * *'
+  #schedule:
+  #  - cron: '20 00 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
