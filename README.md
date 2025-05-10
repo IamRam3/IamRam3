@@ -28,7 +28,7 @@ No pressure though—if you think I’m cool enough, don’t be shy... hit me up
 <h1 align="center">
   <b>Hey </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <b> I'm <a href="https://github.com/yourusername" style="color: #0366d6;">Ram Dhavileswarapu</a></b>
+  <b> I'm <a href="https://github.com/IamRam3" style="color: #0366d6;">Ram Dhavileswarapu</a></b>
 </h1>
 
 <a href="https://www.linkedin.com/in/ram-dhavileswarapu-4ab502250/" title="LinkedIn">
