@@ -235,14 +235,13 @@ Sunday                   56 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   18 mins             █████████████████████░░░░   84.83 % 
-Other                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -258,7 +257,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2025 00:44:13 UTC
+ Last Updated on 09/07/2025 00:45:17 UTC
 <!--END_SECTION:waka-->
 
 
