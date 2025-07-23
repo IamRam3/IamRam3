@@ -200,8 +200,6 @@ __View my resume__
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 396 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -257,7 +255,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2025 00:46:24 UTC
+ Last Updated on 23/07/2025 00:47:06 UTC
 <!--END_SECTION:waka-->
 
 
