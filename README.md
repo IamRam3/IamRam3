@@ -369,7 +369,7 @@ class Engineer(Ram):
 ---
 
 <!--YEAR_PROGRESS_START-->
-⏳ Year progress { ███████████████████████▁▁▁▁▁▁▁ } 76.72 % I still have time to learn more Techs this year
+⏳ Year progress { ███████████████████████▁▁▁▁▁▁▁ } 77.0 % I still have time to learn more Techs this year
 <!--YEAR_PROGRESS_END-->
 
 
